@@ -1,1 +1,1 @@
-# Selenium
+https://stepik.org/course/575?auth=registration
